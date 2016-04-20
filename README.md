@@ -2,22 +2,24 @@
 
 An app for Programming Language Learning,like a dictionary.
 
+Only for Chinese so far.
+
 `graduation project`  `iOS noob`
 
-##Env
+##Dev_Env
 `ios`-`6.1`
 
 `xcode`-`5.0`
 
 `Objective-C`
 
-##Third Party Library
+##Third_Party_Library
 >[UMSocial_SDK](http://www.umeng.com)
 
 >[DDMenuContrller](https://github.com/JPluto/DDMenuController)
 
 ##Funtion
-###Programming Language Dictionary
+###Programming_Language_Dictionary
 
 * Scan
 
