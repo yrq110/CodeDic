@@ -11,7 +11,7 @@ An app for Programming Language Learning,like a dictionary.
 
 `Objective-C`
 
-##ThirdPartyLibrary
+##Third Party Library
 >[UMSocial_SDK](http://www.umeng.com)
 
 >[DDMenuContrller](https://github.com/JPluto/DDMenuController)
