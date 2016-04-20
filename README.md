@@ -6,19 +6,19 @@ Only for Chinese so far.
 
 `graduation project`  `iOS noob`
 
-##Dev_Env
+##Where
 `ios`-`6.1`
 
 `xcode`-`5.0`
 
 `Objective-C`
 
-##Third_Party_Library
+##Use
 >[UMSocial_SDK](http://www.umeng.com)
 
 >[DDMenuContrller](https://github.com/JPluto/DDMenuController)
 
-##Funtion
+##Do
 ###Programming_Language_Dictionary
 
 * Scan
