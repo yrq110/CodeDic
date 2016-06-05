@@ -6,7 +6,7 @@ Only for Chinese so far.
 
 `graduation project`  `iOS noob`
 
-##Where
+##Env
 `ios`-`6.1`
 
 `xcode`-`5.0`
