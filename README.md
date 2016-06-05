@@ -1,4 +1,4 @@
-# iOS-Project-XiaoZhuShou
+# CodeDic
 
 An app for Programming Language Learning,like a dictionary.
 
