@@ -4,8 +4,6 @@ An app for Programming Language Learning,like a dictionary.
 
 Only for Chinese so far.
 
-`graduation project`  `iOS noob`
-
 ##Env
 `ios`-`6.1`
 
