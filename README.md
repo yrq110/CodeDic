@@ -2,8 +2,6 @@
 
 An app for Programming Language Learning,like a dictionary.
 
-Only for Chinese so far.
-
 ##Env
 `ios`-`6.1`
 
